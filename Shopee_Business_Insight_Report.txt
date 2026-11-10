@@ -1,0 +1,21 @@
+
+================================================================================
+                    BÁO CÁO INSIGHT & ĐỀ XUẤT DOANH THU SHOPEE
+================================================================================
+
+1. HIỆU QUẢ DOANH SỐ THEO NGÀNH HÀNG:
+   - Ngành hàng đóng góp doanh thu lớn nhất: DienTu (248,150.52k VND).
+   
+2. HÀNH VI KHÁCH HÀNG THEO THỜI GIAN:
+   - Các khung giờ tập trung lượng giao dịch cao điểm nhất rơi vào khoảng trưa (11h - 13h) 
+     và tối (20h - 22h).
+
+3. ĐÁNH GIÁ CHÍNH SÁCH KHUYẾN MÃI & FREESHIP:
+   - Hệ số tương quan giữa Voucher và Giá trị đơn hàng: r = 0.04.
+   - Chính sách Freeship giúp kích thích tăng giá trị trung bình đơn hàng (AOV) đáng kể.
+
+4. ĐỀ XUẤT CHIẾN LƯỢC KINH DOANH:
+   - Tập trung đẩy Flash Sale và ngân sách quảng cáo vào 2 khung giờ vàng 12h và 21h.
+   - Thiết lập ngưỡng điều kiện áp dụng mã Freeship cao hơn giá trị đơn hàng trung bình 15% 
+     để kích thích người dùng gộp đơn.
+================================================================================

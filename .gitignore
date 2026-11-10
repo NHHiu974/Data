@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.*
+!.env.example
+
+# Local transaction datasets may contain private or customer information.
+*.xlsx
+*.xls
+*.csv
+data/
+
+# Generated outputs
+shopee_analysis_charts.png
+Shopee_Business_Insight_Report.txt
+Shopee_Cleaned_Data.xlsx
